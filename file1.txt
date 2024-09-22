@@ -1,1 +1,2 @@
 Hello!
+\nFile for conflict
